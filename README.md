@@ -1,13 +1,13 @@
 # Ubuntu Setup for DevOps
 
-This is my (rnelles@brita.de) setup for Ubuntu as a DevOps engineer @ BRITA
+This is my setup for Ubuntu as a DevOps engineer
 
 ![Setup](ubuntu.JPG)
 
 # Setup for Ubuntu@WSL2
 
 - Activate WSL2 on your machine 
-- Install the latest approved Ubuntu image @ BRITA
+- Install the latest approved Ubuntu image
 - Setup Ubuntu
 - Install Nerd Fonts on Windows
 
@@ -22,7 +22,7 @@ OR
 choco install nerd-fonts-hack
 ```
 
-- Set 10.63.53.200 as DNS server for your Ubuntu (resolve.conf)
+- Set a DNS server for your Ubuntu (resolve.conf)
 - Copy the files .zshrc brewfile and the folders .config .zsh .azure to your $HOME 
 - Execute the following commands
 
@@ -69,7 +69,7 @@ brew bundle
 npm install -g cdktf-cli
 ```
 - Set the Font for Ubuntu in WSL to "Hack Nerd Font"
-- Follow the guide to setup Devcontainers https://confluencerd.brita.net/pages/viewpage.action?pageId=140151372
+- Follow the guide to setup Devcontainers 
 
 
 # Cheatsheets - Frequently used commands
