@@ -1,6 +1,7 @@
 # Ubuntu Setup for DevOps
 
 This is my (rnelles@brita.de) setup for Ubuntu as a DevOps engineer @ BRITA
+
 ![Setup](ubuntu.JPG)
 
 # Setup for Ubuntu@WSL2
