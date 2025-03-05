@@ -67,11 +67,6 @@ brew bundle
 
 # Install CDKTF
 npm install -g cdktf-cli
-
-# Install Nerd Fonts - Native
-git clone --depth 1 https://github.com/ryanoasis/nerd-fonts
-cd nerd-fonts
-./install.sh Hack
 ```
 - Set the Font for Ubuntu in WSL to "Hack Nerd Font"
 - Follow the guide to setup Devcontainers https://confluencerd.brita.net/pages/viewpage.action?pageId=140151372
@@ -88,3 +83,10 @@ z  # Searches frequently access directory
 ^r  # Searches command history
 ^t  # Searches directories
 ```
+
+<!-- 
+# Install Nerd Fonts - Native
+git clone --depth 1 https://github.com/ryanoasis/nerd-fonts
+cd nerd-fonts
+./install.sh Hack
+-->
